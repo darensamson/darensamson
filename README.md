@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daren Samson (@darensamson)
+- 👋 Hi, I’m Daren Samson
 - 🏢 I work at a very large Grocery Retailer in Cincinnati Ohio, US
 - 🌱 I’m currently exploring the world of Android development using Android Stuido
 - 🍎 I regularly listen the the Accidental Tech Podcast https://atp.fm/
